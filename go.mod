@@ -1,6 +1,6 @@
-module github.com/minio/sha256-simd
+module sha256.mleku.dev
 
-go 1.17
+go 1.23
 
 require github.com/klauspost/cpuid/v2 v2.2.3
 
